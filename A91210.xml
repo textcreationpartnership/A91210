@@ -1,0 +1,1268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Levellers levelled to the very ground. Wherein this dangerous seditious opinion and design of some of them; that it is necessary, decent, and expedient, now to reduce the House of Peeres, and bring down the Lords into the Commons House, to sit and vote together with them, as one House. And the false absurd, grounds whereon they build this paradox, are briefly examined, refuted, and laid in the dust. / By William Prynne, Esquire.</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91210</idno>
+            <idno type="STC">Wing P4001</idno>
+            <idno type="STC">Thomason E428_7</idno>
+            <idno type="STC">ESTC R20341</idno>
+            <idno type="EEBO-CITATION">99863373</idno>
+            <idno type="PROQUEST">99863373</idno>
+            <idno type="VID">115569</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91210)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115569)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E428[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Levellers levelled to the very ground. Wherein this dangerous seditious opinion and design of some of them; that it is necessary, decent, and expedient, now to reduce the House of Peeres, and bring down the Lords into the Commons House, to sit and vote together with them, as one House. And the false absurd, grounds whereon they build this paradox, are briefly examined, refuted, and laid in the dust. / By William Prynne, Esquire.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+               </titleStmt>
+               <extent>[2], 6, 9-28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.B. for Michael Spark,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647 [i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Levellers --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115569:1" rendition="simple:additions"/>
+            <p>THE
+LEVELLERS
+Levelled to the very
+GROUND. <hi>WHEREIN
+This dangerous Seditious Opinion and deſign
+of ſome of them;</hi> That it is neceſſary, decent,
+and expedient, now to reduce the Houſe of Peeres, and
+bring down the Lords into the Commons Houſe, to ſit and
+Vote together with them, as one Houſe. And the falſe abſurd, grounds whereon they
+build this <hi>Paradox,</hi> are briefly examined,
+refuted, and laid in the duſt.</p>
+            <p>By <hi>William Prynne,</hi> Eſquire.</p>
+            <q>
+               <bibl>PROV. 19. 10.</bibl>
+               <p>Delight is not ſeemly for a Foole; much leſſe for a Servant to rule
+over Princes.</p>
+            </q>
+            <q>
+               <bibl>ECCLES. 10. 5, 7.</bibl>
+               <p>There is an evill I have ſeen under the Sun, as an errour which pro<g ref="char:EOLhyphen"/>ceedeth
+from the Ruler; I have ſeene Servants upon Horſes, and Prin<g ref="char:EOLhyphen"/>ces
+walking as Servants upon the earth.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi>
+Printed by <hi>T. B.</hi> for <hi>Michael Spark.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115569:2"/>
+            <pb n="1" facs="tcp:115569:2"/>
+            <head>THE
+LEVELLERS
+LEVELLED.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T was the Apoſtle <hi>Pauls</hi> Doctrine; and that
+he likewiſe gave in ſpeciall charge to <hi>Titus</hi>
+c. 3. 1. <hi>Put them in minde to be ſubject to prin<g ref="char:EOLhyphen"/>cipalities
+and Powers, to obey Magiſtrates, to bee
+ready to every good work:</hi> But this Doctrine
+now is little leſſe then <hi>Hereſie,</hi> and meere
+<hi>Arbitrary Tyranny,</hi> in the opinion of a <hi>New
+Generation</hi> of <hi>Levellers,</hi> and <hi>ſeditious Secta<g ref="char:EOLhyphen"/>ries,</hi>
+ſprung up among us ſince the Warres; the very perſons
+of whom <hi>Peter</hi> prophecyed in the latter times;<note n="a" place="margin">2 Pet. 2. 11.</note> 
+               <hi>Who deſpiſe
+Dominion; preſumptuous, ſelfe-willed, they are not afraid to ſpeake
+evill of Dignities, and the things that they underſtand not, and ſhall
+periſh in their owne corruption.</hi> How active and induſtrious theſe
+Fire-brands of Sedition have been by writing and petitioning
+to extirpate <hi>Monarchy</hi> and <hi>Magiſtracy, Nobility</hi> and <hi>Gentry;</hi> and
+how they move every ſtone to pull downe the Houſe of <hi>Peeres,</hi>
+and levell the Lords to the Commoners, by bringing them
+downe into the <hi>Commons-Houſe</hi> to ſit and vote together with
+them as one, or elſe not to ſit or vote at all, is viſible to moſt;
+and how many thouſands of ignorant ſimple people they
+have ingaged to confederate with them in this pernicious de<g ref="char:EOLhyphen"/>ſigne,
+hath been already diſcovered in part to the Houſes; the
+falſe ſuggeſtions and dangerous conſequencies whereupon it
+is grounded, I ſhall ſuccinctly diſcover, to undeceive the ſedu<g ref="char:EOLhyphen"/>ced
+<pb n="2" facs="tcp:115569:3"/>
+people, and take them off from ſuch a deſperate attempt,
+which will prove deſtructive both to the Parliament, and
+themſelves too in concluſion.</p>
+            <p>Theſe <hi>Lilburniſts</hi> and <hi>Levellers</hi> pretend, that it is not fit the
+Lords ſhould fit and vote in a diſtinct Houſe by themſelves, as
+they have done of latter times, but that they and the Com<g ref="char:EOLhyphen"/>mons
+ſhould now ſit all together in one Houſe, (to wit, the
+Houſe of Commons, the<note n="b" place="margin">
+                  <hi>Lilburns</hi> and <hi>Overtons</hi> Pe<g ref="char:EOLhyphen"/>titions, and late Letters. The agree<g ref="char:EOLhyphen"/>ment of the people. The remonſtrance of many 1000 to their owne Houſe of Co<g ref="char:EOLhyphen"/>mons, and o<g ref="char:EOLhyphen"/>thers.</note> ONELY SOVERAIGNE POW<g ref="char:EOLhyphen"/>ER
+OF THIS KINGDOME, as they ſtile it) as they did
+of<note n="*" place="margin">Methinkes theſe <hi>New Lights</hi> ſhould not cry up and and revive old Preſidents &amp; Patterns, no more then old clothes, faſhi<g ref="char:EOLhyphen"/>ons or Cere<g ref="char:EOLhyphen"/>monies.</note> old at firſt, and be new moulded into a ſingle Houſe; that
+ſo Bills, Ordinances, Votes, and buſineſſes of Parliament
+might paſſe with more expedition upon one Debate and Vote,
+and not ſtay the Debates and Votes of two diſtinct Houſes ere
+they be conſummate. And becauſe the Lords are but few in
+number, the ſonnes of Conqueſt, not of election, repreſenting
+onely themſelvs, but not the Commons of <hi>England,</hi> repreſented
+onely by the Knights, Citizens and Burgeſſes choſen and in<g ref="char:EOLhyphen"/>truſted
+by them; therefore it is juſt and reaſonable the Lords
+ſhould be levelled and brought down to the Commons Houſe
+to ſit and Vote with them; and not enjoy any diſtinct or nega<g ref="char:EOLhyphen"/>tive
+Votes among themſelves, as now they doe.</p>
+            <p>To anſwer theſe pretences, I ſhall not inſiſt upon <hi>the</hi>
+               <note n="c" place="margin">
+                  <hi>See Mr.</hi> Sel<g ref="char:EOLhyphen"/>dens Tit<g ref="char:punc">▪</g> of Hon. par. 2. c 5 Spelm. Concil. Tom. 1. Mr. Lamb. Archa. Modus tenendi Parliamen o<g ref="char:EOLhyphen"/>rum, Truth triumphing o<g ref="char:EOLhyphen"/>ver falſh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od, p. 56. to 76. Cooks 9. Report, The Preface, &amp; 4. Inſt c. 1.</note> 
+               <hi>Lords
+ancient and undoubted Right to ſit and Vote in Parliaments long before
+the Conqueſt, from the firſt beginning of Parliaments to this preſent:</hi>
+Nor on their activity and readineſſe in all ages, <hi>to oppoſe with
+the loſſe and hazzard of their eſtates, heads, lives, the encroachments of
+our Kings upon the Subjects Liberties, and vindicate the peoples free<g ref="char:EOLhyphen"/>domes,
+in the</hi>
+               <note n="d" place="margin">
+                  <hi>See</hi> Mat. Pa. Mat. Weſtm. Walſingham, H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>linſhed, Speed, Graf. on Truſſel, Daniel &amp; The. 1<g ref="char:punc">▪</g> 2. 3. Par. of the Soveraign po<g ref="char:EOLhyphen"/>wer of Parlia<g ref="char:EOLhyphen"/>ments.</note> 
+               <hi>Reigns</hi> of King <hi>John, Henry</hi> the 3. <hi>Edward 2. Ri<g ref="char:EOLhyphen"/>chard</hi>
+2. and other <hi>oppreſſive Princes,</hi> againſt <hi>whoſe invaſions of
+the Kingdomes Lawes and Rights they have ever beene the principall
+Bulwarkes;</hi> and of late the chiefe procurers of this preſent Par<g ref="char:EOLhyphen"/>liament,
+and undertakers of our defenſive warre againſt the
+King, wherein the Earle of <hi>Eſſex,</hi> Lord <hi>Brook,</hi> Lord <hi>Willoughby,</hi>
+and others of them firſt appeared; Nor yet to debate their an<g ref="char:EOLhyphen"/>cient
+and undoubted power and right of <hi>Judicature</hi> in civill
+and criminall caſes of Commoners as well as Peers, in all
+times and Ages ſince there were Parliaments, of which there
+are infinite preſidents in Hiſtories, Parliament Rols and Jour<g ref="char:EOLhyphen"/>nalls,
+and ſundry diſclaimers of the whole Houſe of Com<g ref="char:EOLhyphen"/>mons
+of being Judges in Parliament, as in 1. R. 2. <hi>Rot. Parl.
+<pb n="3" facs="tcp:115569:3"/>
+n. 38, 39, 40. 1 H. 7. Rot. Parl. n.</hi> 79. and <hi>Plac. Coronae. nu.</hi> 11. to 17.
+and other Rolls: I ſhall wholly addreſſe my ſelfe to anſwer ſuch
+Allegations as are moſt pertinent, touching the point of redu<g ref="char:EOLhyphen"/>cing
+both Houſes into one, in ſuch manner as is projected.</p>
+            <p>Firſt then I anſwer, what though it be probable by <hi>Modus te<g ref="char:EOLhyphen"/>nendi
+Parliamentum,</hi> that the King, Lords and Commons anci<g ref="char:EOLhyphen"/>ently
+ſat in one roome, and went in at one common doore in
+<hi>King Edwards the Confeſſors</hi> time; yet it follows not, they all ſat
+and voted together, as one intire houſe: no more then it fol<g ref="char:EOLhyphen"/>lows;
+all the Judges and Officers of the Kings Courts of <hi>Chan<g ref="char:EOLhyphen"/>cery,</hi>
+Kings <hi>Bench</hi> and <hi>Common Pleas</hi> ſit in one common Room,
+and go in at one doore, at <hi>Weſtminſter</hi> Hall: therefore they all
+ſit, judge and heare cauſes together, and are or ought to be
+reduced to one Court; and do not judge, and heare cauſes
+ſeverally, nor ought to do it: there being no one Author or re<g ref="char:EOLhyphen"/>cord
+of credit extant, which proves directly, that the Lords and
+Commons did ever ſit, vote, or act together as one intire
+houſe, and paſſe Billes, Judgements, Ordinances, Orders, by
+one undivided and united Vote; the thing which ſhould be
+proved.</p>
+            <p>Secondly, when, by whom, and upon what occaſion the
+Houſes firſt came to be divided, is altogether uncertain, for
+ought appeares by hiſtory or records.<note n="e" place="margin">4. Inſtit. p. 2. &amp;. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n.</note> Sir <hi>Edward Cook</hi> con<g ref="char:EOLhyphen"/>ceives,
+that <hi>both houſes ſat together</hi> in 5. &amp; 6. <hi>Ed.</hi> 3. and that <hi>about
+that ime, or a little after, they were firſt divided, when the Commons firſt
+choſe a Speaker.</hi> But the Records of theſe Parliaments do not ne<g ref="char:EOLhyphen"/>ceſſarily
+warrant his conjecture herein; ſince they ſpeak only
+of the meeting together of the three Eſtates in Parliament,
+(as now they oft times do, on the firſt and laſt day of the Par<g ref="char:EOLhyphen"/>liament,
+at conferences, paſſing Bills, and upon other occaſi<g ref="char:EOLhyphen"/>ons)
+not of their ſitting and voting together. For my part,
+I conceive the diviſion of the Houſes farre more ancient, for
+this reaſon, becauſe our hiſtorians writing of our ancienteſt
+Parliaments, as well before as after the Conqueſt, do many
+times make mention only of our<note n="f" place="margin">See Spelman Concil. T<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. 1. Seldens titles of honour. par<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 2 c. 5.</note> 
+               <hi>Kings, Archbiſhops, Biſhops,
+Earles and Barons preſent in them,</hi> not of any <hi>Elders of the people,
+Senators, Knights or Commons</hi> to repreſent the people, (which at
+other times they ſpeak of) as preſent in our Parliaments,<note place="margin">Truth trium<g ref="char:EOLhyphen"/>phing over falſhood. <hi>p. 56. &amp;c.</hi>
+               </note>
+and Councells: occaſioned only as I conceive, by the
+diſtinction of their ſitting places and debates. unleſſe it be
+<pb n="4" facs="tcp:115569:4"/>
+granted, that many of our ancient Parliaments were held
+without Commons, Knights, and Burgeſſes, (as ſome affirm)
+but never without Peers &amp; Lords; which would much invalid
+the Commons authority, and that ſupream juriſdiction of theirs
+which the <hi>Levellers</hi> now plead for. But admit they ſat to<g ref="char:EOLhyphen"/>gether
+in one roome in <hi>Edward</hi> the third his reigne, yet it is
+cleart o me, their debates, votes, judgement, were long before
+diſtinct as now they are, by that memorable paſſage in <hi>Stepha<g ref="char:EOLhyphen"/>nides</hi>
+(tranſcribed out of him by<note n="g" place="margin">Titles of Honour, part 2. Chap. 5. p. 705. 706</note> Maſter <hi>Selden;</hi> concerning the
+jugdment given in Parliament at <hi>Northampton</hi> againſt <hi>Thomas
+Becket</hi> Archbiſhop of <hi>Canterbury,</hi> in the eleventh yeare of King
+<hi>Henry</hi> the ſecond, <hi>Anno Domini</hi> 1165. Where the <hi>Biſhops, Earles,
+and all the Barons of England, reſolving upon the Kings motion there,
+that</hi> Becket <hi>refuſing to appeare in Parliament, upon ſummons to an<g ref="char:EOLhyphen"/>ſwer
+the complaint againſt him, being neither hindered by ſickneſſe, nor
+ſending any reaſonable excuſe for his not appearing,</hi> ſhould forſeit all
+his moveable goods, and be at the Kings mercy: <hi>thereupon
+there aroſe a difference between the Biſhops, and Barons, which of
+them ſhould pronounce the judgement: the Barons alleadged, that the Bi<g ref="char:EOLhyphen"/>ſhops
+ought to pronounce it, becauſe he was a Biſhop, and they but Lay<g ref="char:EOLhyphen"/>men;
+the Biſhops Eccleſiaſticall perſons,</hi> and his fellow <hi>Priests, and
+Biſhops. To which one of the Biſhops anſwered; it belonged to the Barons
+and not to them, becauſe it was no Eccleſiaſticall but Secular judgement;
+that they ſat there as</hi>
+               <note n="*" place="margin">
+                  <hi>See</hi> Petrus Bleſenſis.<g ref="char:punc">▪</g> De Inſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Epiſcopi B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bl. Patrum Tom. 12. pors 2. p. 447.</note> 
+               <hi>Barons, not as Biſhops: you are</hi> Barons, <hi>and we
+are</hi> Barons: <hi>here we are</hi> Peeres. <hi>But you inſiſt in vain upon the
+reaſon of our Order: for if you regard in us our Ordination, you ought
+likewiſe to conſider the ſame in him: Now in this that we are Biſhops,
+we cannot judge our</hi> Archbiſhop <hi>and Lord. The King hearing this con<g ref="char:EOLhyphen"/>troverſie
+about pronouncing the judgement, was moved, &amp; thereupon this
+controverſie ceaſed: and the</hi> Biſhop of <hi>Winchester,</hi> (then Hen<g ref="char:EOLhyphen"/>ry
+de Bloys) <hi>being at laſt enjoyned to give the judgement, pronounced
+it againſt his will.</hi> There being no mention, ſpeech, or inter lo<g ref="char:EOLhyphen"/>cution
+of the Commons in this whole Parliamentary debate
+or cenſure, but onely of the King, Biſhops and Barons; it
+makes it more then probable to me, that even then the Houſes
+were divided; at leaſt, that they ſat and voted not together
+but diſtinctly: and if the Commons were preſent, yet it is moſt
+cleare, the Barons only were the Judges, and gave and pro<g ref="char:EOLhyphen"/>nounced
+the ſentence in Parliament, even without the Com<g ref="char:EOLhyphen"/>mons.
+Of which more in ſome other <hi>Treatiſe.</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:115569:4"/>
+Thirdly; admit, the diviſion of the Houſes no ancienter then
+King <hi>Edw.</hi> the third, yet their diviſion being made at firſt up<g ref="char:EOLhyphen"/>on
+good grounds, to prevent confuſion and delayes, and to
+paſſe things with more mature adviſe and deliberation upon
+double debates, and ſecond cogitations, and continued con<g ref="char:EOLhyphen"/>ſtantly
+ever ſince upon good grounds, without any alteration
+oroppoſition. And this diviſion of them being ratified and ap<g ref="char:EOLhyphen"/>proved
+<hi>by the Law and cuſtome of Parliament,</hi> The Parl. Rolls,
+and Journalls, yea confirmed by ſundry<note n="*" place="margin">And the Act for <hi>Trienniall Parliament,</hi> made this Parliament.</note> Acts of Parliament,
+and among others by 31. <hi>H. 8. c. 10. 33. H. 8. c. 21. 3. Jac. c.</hi> 1. it can
+be no way juſt, nor ſafe, nor convenient, nor honourable, to
+confound them both together now, in the manner propound<g ref="char:EOLhyphen"/>ed,
+yea a cleare diſſolving of the Parliament being contrary to
+the Act for its continuance, &amp; a breach of the ſolemn League,
+Covenant, and all engagements, to obey and defend BOTH
+HOUSES OF PARLIAMENT; and a great diſhonour to
+to the Lords, who cannot without apparent perjury and ig<g ref="char:EOLhyphen"/>nominy
+ſubmit thereto: without whoſe full and free con<g ref="char:EOLhyphen"/>ſents,
+and the Kings too by ſpeciall act of Parliament, it is no
+wayes feaſible, if by it,</p>
+            <p>Fourthly, it will introduce a world of contradictions, con<g ref="char:EOLhyphen"/>fuſions,
+abſurdities, and inconveniences, as theſe particulars
+evide<g ref="char:cmbAbbrStroke">̄</g>ce. Firſt, both theſe houſes, as they are now divided, have,
+(and alwayes ſince their diviſions have had) their ſeverall di<g ref="char:EOLhyphen"/>ſtinct
+Speakers, and one chief cauſe of the diviſion (as<note n="h" place="margin">Inſtit. 4. p<g ref="char:punc">▪</g> 2.</note> Sir
+<hi>Edward Cook</hi> conceives) was the <hi>Commons</hi> chuſing <hi>of a continuall
+Speaker.</hi> If then you will unite both Houſes into one; you muſt
+have either theſe two Speakers in that one houſe (which
+would breed confuſion and diſturbance, and be like two heads
+upon one mans neck;) Or but one, both for Lords &amp; Co<g ref="char:cmbAbbrStroke">̄</g>mons,
+who then cannot debate nor Vote diſtinctly, but joyntly
+with the Commons. If but one, then which of the two ſhall
+be the man? Not the Commons Speaker, becauſe they had no
+Speaker at all before the Houſes were divided, &amp; ſo can claim
+none when reunited. And the Lords Speaker being of greateſt
+antiquity, Dignity, and Superiour to the Co<g ref="char:cmbAbbrStroke">̄</g>mons in place and
+degree, ought of right to be preferred, and enjoy the Speakers
+place upon the reducement. And how a Peere; who is not<note n="*" place="margin">Cook 4. In<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtit. p. 8. 46. 47</note> e<g ref="char:EOLhyphen"/>lected
+either a Member or Speaker by the Commons, can by
+the Law of the Land, or cuſtome of Parliament be Speaker of,
+<pb n="6" facs="tcp:115569:5"/>
+and for the Commons, as their mouth and repreſentative; or
+a meere Commoner, a Speaker to the Lords to repreſent them,
+tranſcends my Law and skill; and wil require 7 yeares time
+to ſettle and reſolve. Secondly, if the Houſes be united, then
+how and where ſhall the Lords, and their aſſiſtants ſit, and
+how and where the Co<g ref="char:cmbAbbrStroke">̄</g>mons? If all promiſcuouſly, this would
+unlord, unpeere them, and make the meaneſt Commoner their
+equall: If diſtinct, then why not in diſtinct Houſes ſtill, as well
+as Claſſes and Seats? Or ſhall the Lords ſit covered and the
+Commons ſit bare, as now they doat meetings and conferen<g ref="char:EOLhyphen"/>ces
+of both Houſes? This would be but ill Phyſick for the
+Commons this winter ſeaſon, and too great a penance to ſuch
+of them who have crazy heads, and weak legges, to ſtand bare
+ſo long, and ſome of their ſpirits (eſpecially thoſe who are
+the <hi>Levellers</hi> beſt friends) I doubt are ſo high, they would hard<g ref="char:EOLhyphen"/>ly
+brook ſuch a pennance and daily obſervance. Thirdly, If
+the Houſes be reduced into one, then their<note n="i" place="margin">Cook 4. Inſtit. p. 34. 35.</note> manner of voting
+and dividing being diſtinct and different, as all know: the one
+by a generall <hi>Ay,</hi> and <hi>No;</hi> the other by a particular <hi>Content</hi> and
+not <hi>content,</hi> beginning at the puny Lord: the one determined by
+dividing the Houſe, to take the Poll; the other without divi<g ref="char:EOLhyphen"/>ding:
+the one having no power to enter a Proteſtation of diſ<g ref="char:EOLhyphen"/>ſent,
+the other enjoying it: the one power to vote by Proxy,
+the other onely in perſon without proxy: then whether ſhall
+both retain theſe their differences ſtill in voting, which will
+bring abſolute confuſion, and much delay: or elſe the Lords
+vote as the Commons do, or the Commons as the Lords? If the
+Lords only as Co<g ref="char:cmbAbbrStroke">̄</g>moners, that were a diſparagement and diſ<g ref="char:EOLhyphen"/>advantage
+to them, and a meanes to deprive them of their pri<g ref="char:EOLhyphen"/>viledges
+and votes as Peers, the Commons now having above
+twenty to one for number. If the Co<g ref="char:cmbAbbrStroke">̄</g>mons ſhall vote as Lords,
+that would make them Peers; and make each Vote if given
+particularly by the poll, &amp; the entring of proteſtations, ſp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd
+above half their time. Fourthly, if both houſes ſhould be min<g ref="char:EOLhyphen"/>gled
+together, then the Lords alone muſt be judges, and
+give Oathes and judgement as now they do, in writs of Error
+and other cauſes, with which the Commons are not to inter<g ref="char:EOLhyphen"/>mddle;
+or the Lords and Commons joyntly. If the Lords a<g ref="char:EOLhyphen"/>lone,
+then why ſhould both Houſes be united, or they the
+<pb n="9" facs="tcp:115569:5"/>
+onely Judges in the Commons Houſe, or preſence, which their
+greatneſſe doubtleſſe would not well digeſt? If Lords and
+Commons joyntly, this would ſubvert and alter the ancient
+proceedings and judgements of Parliament, and give the
+Commons a new power of Judicature and giving Oathes, and
+reverſing errours, they never claimed nor enjoyed.</p>
+            <p>Fifthly, if the Houſes be thus confounded, then what will
+become of their diſtinct Servants, Officers, Clerkes, Doore<g ref="char:EOLhyphen"/>keepers,
+&amp;c? Shall both continue? that were a ſuperfluity and
+needleſſe charge: Shall one of them be diſcharged? then
+whether the Lords on Commons? and whether the black
+Rod will not be quite caſheered with the Lords houſe? will be
+a greate queſtion, and require much time to reſolve. Sixtly,
+if both Houſes be new-modelled into one, then what will be<g ref="char:EOLhyphen"/>come
+of all the Aſſiſtants of the Lords houſe? they certainly
+muſt be caſhiered, eſpecially ſuch who are onely employed as
+Meſſengers to the Commons Houſe, of which there will be
+no uſe at all when they ſit together. Eighthly, what will
+become of the forme of endorſing all Bils ſent from the Com<g ref="char:EOLhyphen"/>mons
+to the Lords: <hi>Soit bayle al Seignieurs: les Seigneurs ont
+aſſentus:</hi> and the old forme of reading Bils thrice in both
+Houſes ere they can paſſe them; and ſo of our Acts of Par<g ref="char:EOLhyphen"/>liament?
+In reſpect therefore of all theſe ſeverall contradicti<g ref="char:EOLhyphen"/>ons
+and inconveniencies which can hardly be reconciled, and
+no wayes altered, but by ſpeciall Act of Parliament (if by it)
+without diſſolving the preſent Parliament, to pleaſe a com<g ref="char:EOLhyphen"/>pany
+of ſeditious ignorant <hi>Lovellers</hi> and <hi>Sehiſmaticks,</hi> who ne<g ref="char:EOLhyphen"/>ver
+pondered all theſe particulars; it can neither be conveni<g ref="char:EOLhyphen"/>ent
+nor ſafe to confound both Houſes together into one, as is
+endeavoured and deſired.</p>
+            <p>Fiftly, the Act of 16. <hi>Caroli Regis,</hi> entituled<g ref="char:punc">▪</g> 
+               <hi>An Act for the
+preventing of inco<g ref="char:cmbAbbrStroke">̄</g>veniences, happening by the long intermiſſions of Par<g ref="char:EOLhyphen"/>liaments;</hi>
+(made with abundance of care and pains this Parlia<g ref="char:EOLhyphen"/>ment,
+before the King's departure) diſtingueſheth the houſe of
+Commons from the houſe of Lords; preſcribes an oath <hi>in haec
+verba,</hi> to the Lord Chancell our, Lord Keeper, and Commiſſi<g ref="char:EOLhyphen"/>oners
+of the great Seal of <hi>England,</hi> You ſhall ſwear, that you
+ſhall truly and faithfully iſſue out, and ſend abroad all Writs
+<pb n="10" facs="tcp:115569:6"/>
+of Summons to Parliament FOR BOTH HOUSES.
+And <hi>in default thereof, enacts, That THE PEERS of this
+Realm ſhall be enabled and ENJOYNED to meet in the old Pal<g ref="char:EOLhyphen"/>lace
+of</hi> Weſtminſter, <hi>AT THE <g ref="char:V">Ʋ</g>S<g ref="char:V">Ʋ</g>ALL PLACE
+THERE, on the third Monday on November: and that they, or any
+twelve or more of them THEN AND THERE AS<g ref="char:EOLhyphen"/>SEMBLED
+ſhall iſſue out Writs in uſuall form, under the hands
+and ſeals of twelve or more of them, to the reſpective Sheriffs, and
+other Officers, for the electing of Knights, Citizens and Burgeſſes of
+Parliament.</hi> That on the third Monday in <hi>January,</hi> and ſecond
+Tueſday in <hi>March,</hi> ALL AND EVERY THE
+PEERS OF THE REALM <hi>ſhall make their appear<g ref="char:EOLhyphen"/>ance
+and aſſembly at</hi> THE PALLACE <hi>aforeſaid; and ſhall</hi>
+EACH OF THEM <hi>be liable unto ſuch pains and cenſures
+for his and their</hi> NOT APPEARING AND SER<g ref="char:EOLhyphen"/>VING
+<hi>then and</hi> THERE <hi>in Parliament, as if be or they had
+been ſummoned by Writ under the great Seal of</hi> England, <hi>and had not
+appeared and ſerved, and to ſuch further pains and cenſures as</hi> BY
+THE REST OF THE PEERS <hi>in Parliament
+aſſembled</hi> THEY SHALL BE JUDGED UN<g ref="char:EOLhyphen"/>TO:
+<hi>And that the Knights, Citizens and Burgeſſes aſſembled</hi> IN
+THE COMMONS HOUSE <hi>of Parliament, ſhall be
+liable to ſuch pains and cenſures as he or they ſhall be adjudged unto.</hi>
+            </p>
+            <p>After w<hi rend="sup">ch</hi> it enacts, <hi>That neither the</hi> HOUSE OF PEERS
+<hi>nor</hi> THE HOUSE OF COMMONS <hi>ſhall be ad<g ref="char:EOLhyphen"/>journed
+within fifty dayes at leaſt, after the meeting thereof, unleſſe it
+be by the free conſent</hi> OF EVERY THE SAID HOU<g ref="char:EOLhyphen"/>SES
+RESPECTIVELY: <hi>And that the</hi> PEERS
+<hi>aſſembled in Parliament, may</hi> FROM TIME TO TIME
+<hi>chooſe and declare ſuch perſon</hi> TO BE SPEAKER FOR
+THE SAID PEERS <hi>as they ſhall think fit: And that the
+ſaid Knights, Citizens and Burgeſſes, ſhall and may</hi> FROM
+TIME TO TIME DURING THEIR AS<g ref="char:EOLhyphen"/>SEMBLY
+IN PARLIAMENT, <hi>chooſe and declare
+one of themſelves to be</hi> SPEAKER OF THE HOUSE
+OF COMMONS, <hi>as they ſhall think fit: VVhich ſaid</hi>
+SPEAKERS, <hi>as well for the ſaid</hi> PEERS <hi>as</hi> HOUSE
+OF COMMONS RESPECTIVELY, <hi>ſhall be
+<pb n="11" facs="tcp:115569:6"/>
+perfect and conpleat Speakers</hi> FOR THE SAID HOVSES RE<g ref="char:EOLhyphen"/>SPECTIVELY,
+<hi>and ſhall have as full and large power, juriſdi<g ref="char:EOLhyphen"/>ction
+and priviledges, to all intents and purpoſes, as any</hi> SPEAKER
+OR SPEAKERS OF EITHER OF THE SAID HOU<g ref="char:EOLhyphen"/>SES
+RESPECTIVELY <hi>heretofore have had and enjoyed.</hi> There<g ref="char:EOLhyphen"/>fore
+the levelling and reducing of both Houſes into one, or
+aboliſhing the Lords Houſe and Peerage, will utterly null and
+repeal this Act, (the beſt that was ever yet made for the King<g ref="char:EOLhyphen"/>domes
+ſafety, and Parliaments advantage) and deprive both
+Parliament, Kingdome and people of all future benefit by it,
+(which I wiſh our <hi>Levellers</hi> and <hi>Lilburniſts</hi> ſeriouſly to conſider)
+and likewiſe null and repeal the Act to <hi>prevent Inconveniences
+which may happen by the untimely adjourning, proroguing or diſſolving of
+this preſent Parliam.</hi> An. 17. <hi>Car.</hi> which enacts, <hi>That</hi> THE HOUSE
+OF PEERS <hi>ſhal not at any time or times be adjourned during the pre<g ref="char:EOLhyphen"/>ſent
+Parliament, unleſſe it be</hi> BY THEMSELVES OR THEIR
+OWN ORDER: <hi>And in like manner, that</hi> THE HOUSE
+OF COMMONS <hi>ſhall not at any time or times during this Parlia<g ref="char:EOLhyphen"/>ment,
+be adjourned, unleſſe it be</hi> BY THEMSELVES, OR BY
+THEIR OWN ORDER. Which I hope both Houſes, as
+they deſire their own continuance, and being of the Parlia<g ref="char:EOLhyphen"/>ment,
+will well adviſe of; and all thoſe whom <hi>Lilburn</hi> or his
+Emiſſaries have ſeduced to engage againſt the Houſe of Lords,
+or levell them to the Commons.</p>
+            <p>Sixthly, admit the Houſes might without any inevitable
+miſchiefes and contradictions, be modeled, and united into
+one, yet to bring downe the Lords into the Commons Houſe,
+to ſit and Vote like Commons with them, is no wayes tolle<g ref="char:EOLhyphen"/>rable,
+or to be thought on but with indignation, for theſe
+reaſons. Firſt, becauſe the whole Commons Houſe it ſelfe<g ref="char:punc">▪</g>
+when they preſent their Speaker to the King and Lords (which
+will be aboliſhed by this union) or when any Bills are to be
+paſſed by the Royall Aſſent, upon the<note n="k" place="margin">Cook 4<g ref="char:punc">▪</g> 
+                  <hi>Inſt. p.</hi> 28. 33 H. 8. <hi>c.</hi> 21. 3 Jac. <hi>c.</hi> 1.</note> 
+               <hi>beginning</hi> and ending of
+every Parliament, and upon ſome other ſpeciall occaſions
+have alwayes uſed to goe up and wait upon the Houſe of
+Lords in perſon, yea to ſtand bare at their Barre, and to ſend
+their Members in perſon<note n="*" place="margin">See 5. R. 2. n. 16.</note> up to the Lords upon any Meſſage,
+Co<g ref="char:cmbAbbrStroke">̄</g>ference, or other occaſion; but never did the whole Houſe of
+<pb n="10" facs="tcp:115569:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:115569:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:115569:8"/>
+Peeres in any age come downe in perſon to the Commons
+Houſe, or any Peeres of late bring Meſſages to them, but one<g ref="char:EOLhyphen"/>ly
+ſend them by ſome Aſſiſtants, as <hi>Judges, Maſters of Chancery, &amp;c.</hi>
+Therefore now to talk of bringing down the Houſe of Peeres
+to ſit with the Commons in their Houſe, (all one, as to re<g ref="char:EOLhyphen"/>duce
+a Noble mans Dining-roome to his Hall or Kitchin, and
+levell the roofe and upper roomes of a houſe with the lower<g ref="char:EOLhyphen"/>moſt
+floore) is ſuch a diſhonour and affront to the Lords,
+that none but degenerate and ignoble ſpirits can ſo much as
+heare or think of it with patience, nor no Peere reſent it but
+with juſt ſcorne and contempt, and rather dye then conſent
+unto it, without whoſe conſents it cannot be done without
+both Houſes ruine: And to bring up the Houſe of Commons
+to ſit and Vote joyntly with the Peeres, would be to advance
+the <hi>Co<g ref="char:cmbAbbrStroke">̄</g>mons<g ref="char:punc">▪</g>
+               </hi> above their degree, not <hi>level the Lords;</hi> to make ſome
+men <hi>Lords</hi> before they are <hi>Gentlemen,</hi> &amp; every <hi>Commoner</hi> no leſſe
+then a <hi>Lord,</hi> which would too much puffe and bladder them
+with pride, and make them ſlight thoſe whom they repreſent<g ref="char:punc">▪</g>
+who being but <hi>Commoners,</hi> cannot be repreſented by <hi>Peeres,</hi>
+or any ſitting and Voting in the <hi>Houſe of Peeres,</hi> by the true
+fundamental Law and Cuſtome of Parliaments, as Sir<note n="l" place="margin">Inſtit. 4. p. 8, 46, 47.</note> 
+               <hi>Edward
+Cooke</hi> reſolves. Secondly, if the Lords ſhould bee brought
+downe into the Commons Houſe, (which is much like the
+reducing of the head and ſhoulders of the naturall body,
+into the belly or legges, which would make a Monſter and de<g ref="char:EOLhyphen"/>ſtroy
+the man) there would be no roome for them, their Of<g ref="char:EOLhyphen"/>ficers
+and Aſſiſtants, unleſſe enlarged and metamorphoſed in<g ref="char:EOLhyphen"/>to
+another forme. Thirdly, If the Lords muſt bee brought
+downe into the Commons Houſe, then the<note n="*" place="margin">See <hi>Cook<g ref="char:punc">▪</g>
+                  </hi> 4. Inſt. p. 14, 15.</note> King and Prince
+as well as they, or elſe they muſt be totally excluded the Par<g ref="char:EOLhyphen"/>liament,
+or ſit alone by themſelves in the Houſe of Lords,
+without any Lords to attend them<g ref="char:punc">▪</g> An indignity which no
+King or Prince can brooke, and no modeſt Commoner ſeri<g ref="char:EOLhyphen"/>ouſly
+thinke of but with deteſtation; nor Lord, nor King
+conſent to, but by force and violence; and without their vo<g ref="char:EOLhyphen"/>luntary
+conſents it will not be valid, but deſtructive.</p>
+            <p>Seventhly, The falſe pretext for it, of expediting <hi>Bills, Or<g ref="char:EOLhyphen"/>dinances,</hi>
+and <hi>Votes,</hi> is an abſurd and ignorant fancie of over<g ref="char:EOLhyphen"/>haſty
+<pb n="13" facs="tcp:115569:8"/>
+ſpirits, who would act all things in a hurry without
+good deliberation: For firſt, nothing ought to bee done in
+Parliament but upon full and mature debate and deliberati<g ref="char:EOLhyphen"/>on
+of all the circumſtances and probable conſequences of it
+in future time (a thing now ſeldome conſidered:) <hi>Diu delibe<g ref="char:EOLhyphen"/>randum
+quod ſemel ſtatuendum, &amp;, Feſtina lente,</hi> are ſafe rules in
+Parliament, eſpecially in paſſing publike Acts and Ordinan<g ref="char:EOLhyphen"/>ces,
+in making Warre or Peace, or any Nationall Leagues and
+Agreements. Secondly, <hi>Haſty Dogges bring forth blinde Whelpes:</hi>
+and haſty Votes, over ſudden Councels and Motions, lame,
+blinde, contradictory, unjuſt, and inconſiderate Orders, Or<g ref="char:EOLhyphen"/>dinances,
+Acts, which muſt either be corrected, ſupplyed, or
+repealed by Additionals, of which we have had too many ex<g ref="char:EOLhyphen"/>periments
+ſince this Parliament; which in many Votes, Or<g ref="char:EOLhyphen"/>dinances,
+Orders, and Impeachments hath made more haſte
+then good ſpeed; and Voted ſometimes both abſurdities and
+impoſſibilities (witneſſe the <hi>Commons</hi> Votes, for the Tryall of
+<hi>Mac-Guire and Mac-Mohun in the Kings-Bench, the very firſt day of
+the Terme,</hi> before any Indictment drawne, found, or any Jury
+ſummoned to finde it; for the Tryall of Judge <hi>Jenkins</hi> in the
+<hi>Kings-Bench,</hi> by a ſhort day, for Treaſon aleaged to be com<g ref="char:EOLhyphen"/>mitted
+in <hi>Wales,</hi> before any Indictment found in the Country,
+or removed into Court, and the like;) which I only mention
+to ſatisfie and anſwer the Objectors, nor to defame the Houſe
+or Houſes, whoſe Honours and Reputations have beene much
+blemiſhed, through the inconſiderate raſhneſſe of ſome igno<g ref="char:EOLhyphen"/>rant
+Members, who poaſted on ſuch Votes and Impeachments.
+Thirdly, this dividng the Houſes will breed infinite diſorder
+and confuſion,<note n="*" place="margin">4. Inſtit. q. 2.</note> not expedition, in their proceedings, as the
+premiſes manifeſt, and deſtroy their very formes and method;
+upon which ground Sir<note n="*" place="margin">Witneſſe Dr <hi>Levtons,</hi> Dr. <hi>Baſtwicks,</hi> Mr <hi>Burtons,</hi> my own, Mr. <hi>Wal<g ref="char:EOLhyphen"/>kers,</hi> Mr. <hi>Fox<g ref="char:EOLhyphen"/>leys,</hi> the <hi>Che<g ref="char:EOLhyphen"/>ſterwars</hi> and many others, about Ship<g ref="char:EOLhyphen"/>money, and o<g ref="char:EOLhyphen"/>ther grievan<g ref="char:EOLhyphen"/>ces.</note> 
+               <hi>Edward Cooke</hi> writes they were firſt
+divided. Fourthly, it will be a great retarding and obſtruction
+to publike Juſtice, eſpecially in Writs of Errour, and all ſuch
+things which the Lords may diſpatch or judge without the
+Commons Houſe; where many <hi>hundreds of Petitions and buſineſſes
+heard and Voted above ſeven yeeres ſince,</hi> doe yet ſtick without re<g ref="char:EOLhyphen"/>port,
+or tranſmiſſion to the Lords (to the great diſhonour and
+ſcandall of their proceedings and ſpeedy juſtice) which had
+<pb n="14" facs="tcp:115569:9"/>
+been diſpatched and ended many years paſt, had they firſt peti<g ref="char:EOLhyphen"/>tioned
+to the Lords for redreſſe. So as the Lords Houſe is clear<g ref="char:EOLhyphen"/>ly
+no cauſe of delay, but the Commons rather, through their
+long debates or want of method, which debates would bee
+increaſed and lengthned by adding of the Lords unto them,
+who can now debate and determine things apart, and reſolve
+two or three things, or more, whiles the Commons are deba<g ref="char:EOLhyphen"/>ting
+one: And therefore, if delay be the onely cauſe of redu<g ref="char:EOLhyphen"/>cing
+the Lords Houſe to the Commons, the Commons cer<g ref="char:EOLhyphen"/>tainly
+are rather to be reduced then the Lords, and may bee
+better ſpared of the two (even by<note n="k" place="margin">His letter to a friend, his letters to <hi>Hen<g ref="char:EOLhyphen"/>ry Martyn</hi> and <hi>Cromwel,</hi> In<g ref="char:EOLhyphen"/>nocency and Truth juſtifi<g ref="char:EOLhyphen"/>ed, <hi>Englands</hi> Birth-right, the late Peti<g ref="char:EOLhyphen"/>tion of many free-born peo<g ref="char:EOLhyphen"/>ple of <hi>England.</hi>
+               </note> 
+               <hi>Lilburnes</hi> and his <hi>Confede<g ref="char:EOLhyphen"/>rates
+Libells</hi> and <hi>Petitions</hi>) their delayes being not a quarter
+to one ſo many, nor one quarter ſo long as the <hi>Commons,</hi> as
+themſelves muſt and do acknowledge. Eightly, this whole de<g ref="char:EOLhyphen"/>ſign
+is a direct breach of the ſolemn League and Covenant, a
+ſubverſion of the Law and Cuſtome of Parliaments, a device
+to deſtroy both Houſes, under pretext of reducing them into
+one; an engine to diſſolve this preſent, and all future Parlia<g ref="char:EOLhyphen"/>ments;
+to alter the fundamentall Lawes and Government of
+this Kingdom, to unking the King, unprince the Prince, un<g ref="char:EOLhyphen"/>lord
+the Lords, and quite deſtroy their Houſe (almoſt effected
+by expulſions, and impeachments of moſt of their Members
+by degrees, who have ſcarce enough left to make up an houſe,
+which it is high time for them &amp; the Commons to obſerve;)
+yea, a project to extirpate Monarchy and Nobility, and ſet up a
+popular Anarchy and Polarchy: And therfore who ever hath
+plotted and fomented it, is more guilty of high Treaſon then
+<hi>Strafford, Canterbury,</hi> or the Gun-powder Traitors, and de<g ref="char:EOLhyphen"/>ſerves
+a ſeverer puniſhment then they underwent, even by the
+hands of the Parliament it ſelf, and all that are wel-wiſhers
+to Parliaments or Kingdom, though no friends to Peers.</p>
+            <p>Ninthly, this diviſion of the Houſes is; Firſt, a great ho<g ref="char:EOLhyphen"/>nour
+to the Parliament and Houſes, ſavouring of greater Ma<g ref="char:EOLhyphen"/>jeſty,
+State, and Order, then their joyning into one, and giving
+every eſtate its<note n="*" place="margin">31 H. 8. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> du<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> place and ranke. Secondly, a great eaſe
+and benefit to the Subject, who may make his Addreſſes and
+Petitions to either at his election for reliefe. Thirdly, a great
+diſpatch and expedition to all publike affaires, one Houſe fit<g ref="char:EOLhyphen"/>ting
+<pb n="15" facs="tcp:115569:9"/>
+and preparing them for the Debat, &amp; concurrence of the
+other, at one and the ſame time, as Committees of each
+Houſe prepare and expedite buſineſſes for the whole Houſe.
+Fourthly, a means of more ſpeedy juſtice, by the Commons
+preparing of Articles and evidence for complaints and im<g ref="char:EOLhyphen"/>peachments,
+preſented by them to the Lords, whiles they are
+diſpatching other buſineſſes; and their hearing Writs of Er<g ref="char:EOLhyphen"/>rour,
+and other cauſes, whiles the Commons are upon other
+debates; which they could not do in one houſe, but joyntly
+together, and ſucceſſively, not with ſo quick diſpatch, and ſuch
+good order as now. Fifthly, a thing very neceſſary and ad<g ref="char:EOLhyphen"/>vantagious
+to the Kingdom and people, and ſafeſt for the Par<g ref="char:EOLhyphen"/>liament,
+in that the Lords upon their ſecond debates and con<g ref="char:EOLhyphen"/>ferences
+with the Judges and others, many times amend and
+rectifie divers errours, imperfections, and miſtakes in the over-haſty Votes, yea &amp; deliberate Orders, Ordinances, Bils and De<g ref="char:EOLhyphen"/>clarations
+of the Commons, which the Commons acknow<g ref="char:EOLhyphen"/>ledge
+by their aſſents unto their amendments; and oft times
+the Commons ſtay ſome Votes, Orders, Bils, Ordinance,
+ſent down to them by the Lords; and their ſeveral amend<g ref="char:EOLhyphen"/>ments
+and diſlikes, with the conferences and debates occaſion<g ref="char:EOLhyphen"/>ed
+thereupon, and ſecond conſiderations of Buſineſſes, Votes,
+Ordinances, Orders, Bils, Declarations, and the like, make
+them more profitable, compleat and valid, and leſſe liable to
+exceptions and evaſions then elſe they would have been. In
+all which reſpects, this diviſion of the Houſes, and the Lords
+and Kings negative voyces rightly conſidered and uſed, are
+not onely convenient, but expedient and abſolutely neceſſary
+for the publike good, whatever <hi>Lilburn</hi> and his ignorant Le<g ref="char:EOLhyphen"/>vellers
+fancy to the contrary.</p>
+            <p>
+               <hi>I ſhall therefore cloſe up this with that wholeſome and ſea<g ref="char:EOLhyphen"/>ſonable
+advice of</hi> Solomon, Prov. 24. 21, 22. My ſonne feare thou
+the Lord and the King, and meddle not with thoſe WHO ARE GI<g ref="char:EOLhyphen"/>VEN
+TO CHANGE; For their calamity ſhall riſe ſuddenly, and
+who knoweth the ruine of them both?</p>
+            <p>There is onely one Objection to be removed,<note place="margin">Object.</note> wherewith I
+ſhall arme the Levellers, that ſo I may leave nothing unan<g ref="char:EOLhyphen"/>ſwered,
+<pb n="16" facs="tcp:115569:10"/>
+that may be hereafter inſiſted on. And that is, this
+paſſage in <hi>Modus tenendi Parliamentum, We muſt know, that for the
+granting of ſuch help and ayd (to the King) it hehooveth</hi> THAT ALL
+THE PEERS OF THE PARLIAMENT AGREE: <hi>And we muſt un<g ref="char:EOLhyphen"/>derstand,
+that two Knights which come to the Parliament for the Shiers
+and Countries out of which they come, have a greater voyce in Parlia<g ref="char:EOLhyphen"/>ment</hi>
+TO GRANT, <hi>then</hi> THE GREATEST EARL <hi>in</hi>
+England: <hi>And after the ſame manner the Procters for the Clergie, or
+Clerks of the Convocation-houſe for one Biſhoprick, have a greater
+voyce in Parliament, if they all agree, then the Biſhop himſelf: And this
+is true in all things which ought to be granted or denyed to the party, or
+are to be done therein. And this is manifeſt,</hi> BECAUSE THE KING
+MAY HOLD A PARLIAMENT WITH THE COMMOMALTY AND
+COMMONS OF THE KINGDOM WITHOUT BISHOPS, EARLS
+AND BARONS; <hi>yet ſo, as they be ſummoned to the Parliament, although
+no Biſhop, Earl or Baron come according to their ſummons:</hi> BECAUSE
+IN TIMES PAST, NEITHER WAS THERE BISHOP, EARL OR
+BARON; <hi>and yet</hi> EVEN THEN KINGS KEPT THEIR PARLIA<g ref="char:EOLhyphen"/>MENT.
+<hi>But it is far otherwiſe on the other ſide; for though the Com<g ref="char:EOLhyphen"/>monalty,</hi>
+to wit, <hi>Laity and Clergie were ſummoned to the Parliament
+(as of right they ought to be) yet for ſome certain cauſes they would not
+come; as if they did pretend, that the King did not govern them as he
+ought, and in ſpeciality point out the Articles in which he miſgoverned
+them, as he ought;</hi> TUNC PARLIAMENTUM NULLUM EST OM<g ref="char:EOLhyphen"/>NINO;
+<note n="l" place="margin">So the La<g ref="char:EOLhyphen"/>tin, the Eng<g ref="char:EOLhyphen"/>liſh being non<g ref="char:EOLhyphen"/>ſence, and miſ<g ref="char:EOLhyphen"/>tranſlated in many places.</note> 
+               <hi>then there is no Parliament at all, though all the Archbi<g ref="char:EOLhyphen"/>biſhops,
+Biſhops, Earls and Barons, and and all the Peers ſhould be preſent
+with the King: And therefore it behooveth that all things which ought
+to be affirmed or informed, granted or done by the Parliament, ſhould
+be granted by the Commonalty of the Parliament; which conſists of three
+degrees or kinds aſſembled in Parliament,</hi> to wit, <hi>of the Practors of the
+Clergie, the Knights of the Shires, the Citizens and Burgeſſes, who re<g ref="char:EOLhyphen"/>preſent
+the whole Commonalty of</hi> England, <hi>and not of Noble men; becauſe
+every one of them is for his own proper perſon preſent at the Parliament,
+and for no other: Which Master</hi>
+               <note n="m" place="margin">
+                  <hi>Holinſhead</hi> Chron. of <hi>Irel.</hi> p. 127, 128.</note> John Vowel <hi>in his Order and <g ref="char:V">Ʋ</g>
+                  <g ref="char:EOLhyphen"/>ſage
+how to keep a Parliament;</hi> ſeconds in theſe words:</p>
+            <p>If the King in due order have ſummoned all his Lords and Barons,
+and they will not come; or if they come, they will not yet appear; or if
+they come and appear, and will not doe no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yeeld to any things THEN
+<pb n="17" facs="tcp:115569:10"/>
+THE KING WITH THE CONSENT OF THE COMMONS
+MAY ORDAIN AND ESTABLISH ANY ACTS OR LAWS
+WHICH ARE AS GOOD, S<g ref="char:V">Ʋ</g>FFICIENT AND EFFECT<g ref="char:V">Ʋ</g>
+               <g ref="char:EOLhyphen"/>ALL,
+AS IF THE LORDS HAD GIVEN THEIR CON<g ref="char:EOLhyphen"/>SENTS.
+But on the contrary, if the Commons be ſummoned, and will
+not come; or comming will not appear, or appearing will not conſent to
+do any thing, alledging ſome juſt, weighty or great cauſe, the King in
+thoſe caſes cannot with the Lords deviſe, make or establiſh any Law.
+<hi>The reaſons are theſe;</hi> When Parliaments were firſt began and or<g ref="char:EOLhyphen"/>dained,
+there were no Prelates or Barons of the Parliament, and the
+temporal Lords were very few or none, and then the<note n="*" place="margin">In what age was there ever ſuch a Parlia<g ref="char:EOLhyphen"/>ment of King and Commons onely?</note> King and his Com<g ref="char:EOLhyphen"/>mons
+did make a full Parliament; <hi>which authority was NE<g ref="char:EOLhyphen"/>VER
+YET ABRIDGED. Again, every Baron in Parlia<g ref="char:EOLhyphen"/>ment
+doth repreſent his own perſon, and ſpeaketh in the be<g ref="char:EOLhyphen"/>half
+of himſelf alone; but in the Knights, Citizens and Bur<g ref="char:EOLhyphen"/>geſſes,
+are repreſented the Commons of the whole Realm;
+and every of theſe giveth conſent, not onely for himſelf, but
+for all thoſe alſo for whom he is ſent: And the King with
+the conſent of the Commons,</hi>
+               <note n="n" place="margin">A groſſe mi<g ref="char:EOLhyphen"/>ſtake without preſident to warrant it.</note> HAD EVER A S<g ref="char:V">Ʋ</g>FFICI<g ref="char:EOLhyphen"/>ENT
+AND F<g ref="char:V">Ʋ</g>LL A<g ref="char:V">Ʋ</g>THORITY TO MAKE, ORDAIN
+AND ESTABLISH GOOD AND WHOLSOME LAWS FOR
+THE COMMON-WEALTH OF THE REALM: <hi>Wherefore
+the Lords being lawfully ſummoned, and yet refuſing to come,
+ſit or conſent in Parliament,</hi> CANNOT BY THEIR FOLLY
+ABRIDGE THE KING OR THE COMMONS OF THEIR
+LAWF<g ref="char:V">Ʋ</g>LL PROCEEDINGS IN PARLIAMENT. <hi>So he.</hi>
+            </p>
+            <p>From which two paſſages it may be probably inferred; firſt,
+that a Parliament may now be held, and Acts and Laws made
+by the King and Commons alone, without the Lords; but not
+by the King and Lords without the Commons; and ſo their
+ſitting in Parliament is not ſimply neceſſary, ſo as they may
+quite be taken away and reduced to the Commons houſe. Se<g ref="char:EOLhyphen"/>condly,
+that they have no negative voice, but ought to aſſent
+to whatever the Commons ſhall vote to be good and neceſſary
+for the Commonwealth.</p>
+            <p>To which I anſwer;<note place="margin">Anſwer.</note> firſt, that the compiler of the firſt Trea<g ref="char:EOLhyphen"/>tiſe,
+is both unknown, &amp; the time whe<g ref="char:cmbAbbrStroke">̄</g> it was firſt compiled, not
+<pb n="18" facs="tcp:115569:11"/>
+ſo ancient as is imagined by ſome hundreds of yeers: It is ſaid
+in the preface, it was firſt compoſed in <hi>Edward</hi> the Confeſſor's
+time, and ſhewed to <hi>William</hi> the Conquerour, &amp; approved and
+uſed by him: but he that made this Preface to it (addes) <hi>That
+it was uſed IN THE TIMES OF HIS S<g ref="char:V">Ʋ</g>CCESSORS KINGS
+OF</hi> ENGLAND, and therefore lived long after the Conquerours
+time) and ſo writes but at random, not of his own knowledge,
+there being no Hiſtory nor Record to warrant any ſuch thing:
+and by his Diſcourſe touching the Members places and ſitting
+in Parliament, manner of Marſhalling the Biſhops and others,
+and by other paſſages, it ſhould ſeem, a great part of this
+Treatiſe is but of late compoſure: As for its exemplification
+by King <hi>Henry</hi> the ſecond, and his ſending it into <hi>Ireland,</hi> and
+King <hi>Henry</hi> the ſecond, and his ſending it into <hi>Ireland,</hi> and
+King <hi>Henry</hi> the fourth his exemplification of it there, I find no
+warrant for it, but Sir<note n="o" place="margin">Inſtit. 4. p. 12.</note> 
+               <hi>Edward Cooks</hi> aſſertion, and that
+grounded upon a bare report from another: theſe exemplifi<g ref="char:EOLhyphen"/>cations
+(for ought I can learn) being neither of them extant,
+nor yet ſo much as once mentioned by Maſter <hi>Richard Bolton</hi>
+(a great Antiquary) in his <hi>Collection of the Statutes of Ireland:</hi>
+Beſides, the election of<note n="*" place="margin">
+                  <hi>See</hi> the Free<g ref="char:EOLhyphen"/>holders grand Inqueſt. p. 5, 10 16.</note> two Knights to ſerve for every Coun<g ref="char:EOLhyphen"/>ty,
+two Citizens for every City, and two Burgeſſes for every
+Burrough, and the Procurators of the Clergy, cannot be pro<g ref="char:EOLhyphen"/>ved
+by any Hiſtory or Records extant, to be formally choſen
+by Writ, and ſent to the Parliament, in <hi>Edward</hi> the Confeſſors
+reign; nor that all thoſe aſſiſtants w<hi rend="sup">ch</hi> this Treatiſe mentions
+did then ſit or were preſent in Parliaments, in ſuch manner &amp;
+form as is expreſſed in this Treatiſe: Yea, the very objected
+paſſage, &amp; reaſon therin rendered, proves it ſelf to be of pun<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er
+date then the Confeſſors or Conquerours dayes. Secondly,
+admit it as ancient as the Confeſſor or Conquerour, then it is
+apparent, that even in thoſe times the Houſes either ſate not,
+at leaſt voted not both together, as is pretended: For firſt, this
+<hi>Treatiſe distinguiſheth the Biſhops, Earls and Barons, as distinct ranks
+and degrees of Parliament, both from Knights, Citizens and Burgeſſes,
+throughout the Treatiſe:</hi> Secondly, it diſtinguiſheth them in the
+<hi>times and dayes of their calling in the beginning of the Parliament, and
+in their fines for not appearing:</hi> Thirdly, in the <hi>charge the King gives
+to them:</hi> Fourthly, in the <hi>places and manner of their ſitting, all the
+<pb n="19" facs="tcp:115569:11"/>
+ſeverall orders of Peers, and Aſſistants of the Lords houſe being menti<g ref="char:EOLhyphen"/>oned,
+as ſitting together, without any Knights, Citizens or Burgeſſes
+ſitting among them.</hi> And he addes, <hi>that between the Biſhops, Earls,
+Barons, all muſt keep their places, and the Steward of</hi> England <hi>is to
+look to this, THAT NONE SIT B<g ref="char:V">Ʋ</g>T AMONG HIS PEERS
+AND EQ<g ref="char:V">Ʋ</g>ALS:</hi> Fiftly, he ſubjoyns, <hi>That the Justices of</hi> Eng<g ref="char:EOLhyphen"/>land
+<hi>are no Justices in Parliament, unleſſe ſo far forth as new power
+ſhall be aſſigned and given them then by the KING AND THE
+PEERS of the Parliament: That the Peers of the Parliament are
+to examine Petitions BY THEMSEVES: That the King ſhall aſ<g ref="char:EOLhyphen"/>ſigne
+five skilfull Clerks of the Parliament: the firſt whereof ſhall be Mi<g ref="char:EOLhyphen"/>nister
+to ſerve the Biſhops; the ſecond, the Procters of the Clergie; the
+third, the Earls and Barons; the fourth, the Knights of the Shire; the
+fift, the Citizens and Burgeſſes: who ſhall write and register their ſeve<g ref="char:EOLhyphen"/>rall
+anſwers and doubts to the King; that all doubtfull caſes are to be put
+in writing, and delivered to the Clerk of every degree; that ſo every DE<g ref="char:EOLhyphen"/>GREE
+BY IT SELF MAY GOE THERE BY IT SELFE
+AND DEBATE IT, and then bring their ANSWER AND AD<g ref="char:EOLhyphen"/>VICE
+IN WRITING; and if any diſcord ariſe, that the buſineſſe
+be handled and amended by all the Peers of the Kingdom: And that none
+of all the Peers may depart from Parliament, unleſſe he have obtained
+leave</hi> OF THE KING, <hi>and of</hi> ALL HIS PEERS. All which
+proves the deviſion and diſtinction of the Houſes in that Age,
+in Votes and Debates.</p>
+            <p>Thirdly, both theſe Writers grant; Firſt, that the Com<g ref="char:EOLhyphen"/>mons
+can doe or conclude nothing without the Kings pre<g ref="char:EOLhyphen"/>fence
+and conſent: Secondly, that all the Lords ought to be
+ſummoned to the Parliament, and if they appear not, that
+they ſhall be amerced: Thirdly, that <hi>ALL PEERS OF
+THE REALME O<g ref="char:V">Ʋ</g>GHT TO AGREE TO WHAT IS
+GRANTED OR PASSED IN PARLIAMENT;</hi> ſo are their
+words: Therefore if all the Peers, or the major part of them
+diſagree, no ayde can be granted nor Act paſſed, by their
+own confeſſions: and by the ſame reaſon they affirm, that the
+King and Lords, or either of them alone, without the Com<g ref="char:EOLhyphen"/>mons,
+can grant or enact nothing that is firme or ſtable;
+nor yet the Commons themſelves without the Kings aſſent;
+they muſt of neceſſity grant, that the King and Commons
+<pb n="20" facs="tcp:115569:12"/>
+without the Lords can do nothing, that is binding to the
+Kingdom, the Lords aſſent being as requiſite as theirs, and they
+entruſted by the Laws, Statutes and Cuſtome of the Realm, to
+conſent and diſſent in the granting of aydes, and making
+Laws as well as the King and Commons, and have a ſhare inboth
+as well as they.</p>
+            <p>Fourthly, the holding of a Parliament, granting of aydes
+and making Laws by the King and Commons, without the
+Lords, is onely in one ſpeciall caſe of obſtinacy and extremity
+in the Lords; which never yet fell out, nor is likely to happen:
+To wit, <hi>when the Lords are all ſummoned to Parliament, and yet wil<g ref="char:EOLhyphen"/>fully
+refuſe to appear, ſit or agree to any thing propounded by the King
+and Commons joyntly, without giving a ſufficient reaſon for their ſo do<g ref="char:EOLhyphen"/>ing:</hi>
+To conclude therefore from ſuch a remote poſſibility of
+a caſe which never yet fell out, nor is likely to do, the ne<g ref="char:EOLhyphen"/>ceſſity
+of the Lords reducement at this preſent, or in future
+times to the Houſe of Commons, or the abolition of the Houſe
+of Peers, or their negative voyce, is as great nonſence and fren<g ref="char:EOLhyphen"/>zy,
+as to argue; that all the Lords and Commons ought pre<g ref="char:EOLhyphen"/>ſently
+to be ſent to <hi>Bedlam,</hi> becauſe one of our Parliaments
+was ſtiled, <hi>Inſanum Parliamen<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um, The mad Parliament,</hi> and they
+may poſſibly prove now as mad as the Parliame<g ref="char:cmbAbbrStroke">̄</g>t was then re<g ref="char:EOLhyphen"/>puted;
+as they will do in good earneſt, if they ſhould go about
+to levell the Lords, and detrude them to the Commons houſe,
+as theſe mad Sectaries and Levellers would perſwade them.</p>
+            <p>Fiftly, neither of theſe Writers were good Lawyers, Hiſto<g ref="char:EOLhyphen"/>rians
+or Antiquaries verſed in Parliament Records: for firſt,
+our<note n="o" place="margin">22 E. 3. 3. <hi>b.</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> H. 7. 14. 11 H 7. 27 <hi>B<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Parl.</hi> 107. Plowdens <hi>Cou<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</hi> 79. Crompton's <hi>Ju<g ref="char:EOLhyphen"/>riſdiction, f.</hi> 8. Forteſcue, <hi>c. 18 f.</hi> 20. 4 H. 7. 6. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Dy</hi> 92. Bro. 134, 39 E. 3. 7.</note> Law-books are expreſſe in point, <hi>That no Law nor Act of
+Parliament can be made by the King and Commons without the Lords
+concurrent aſſent, no more then by the King and Lords without the Com<g ref="char:EOLhyphen"/>mons:</hi>
+And Sir <hi>Edward Cook</hi> (the greateſt Lawyer in this latter
+age) is poſitive, in his 4. <hi>Inst.</hi> c. 1. (where he writes particularly
+of Parliaments) f. 25. <hi>There is NO ACT OF PARLIAMENT
+B<g ref="char:V">Ʋ</g>T M<g ref="char:V">Ʋ</g>ST HAVE CONSENT OF THE LORDS, the Com<g ref="char:EOLhyphen"/>mons,
+and royall aſſent of the King, as appeareth by RECORDS AND
+O<g ref="char:V">Ʋ</g>R LAW-BOOKS:</hi> Therefore this fancy of theirs, <hi>that the
+King and Commons may make Laws without the Lords,</hi> is a cleer
+miſtake even in point of Law; which the very form and pen<g ref="char:EOLhyphen"/>ning
+<pb n="21" facs="tcp:115569:12"/>
+of all our Statutes (<hi>Be it enacted by the King, &amp;c. THE
+LORDS SPIRIT<g ref="char:V">Ʋ</g>ALL AND TEMPORALL, and Commons in
+this preſent Parliament aſſemblea;</hi> and the like) refutes: Secondly,
+all our Hiſtorians and Antiquaries concur herein, That there
+can be no Parliament, nor ever was in any age ſince Parlia<g ref="char:EOLhyphen"/>ments
+were in <hi>England,</hi> held by the King and Commons alone
+without the Lords; there being no ſuch Parliament ever heard
+or read of, neither do theſe Authors inſtance in any one Preſi<g ref="char:EOLhyphen"/>dent;
+therefore this ground of their opinion, <hi>That in times paſt
+our Kings kept their Parliaments, when &amp; before there were any B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhops
+or temporall Lords,</hi> is a meer groundleſſe aſſertion, contradicted
+by all our Antiquaries and Hiſtorians; which alwayes make
+mention of Archbiſhops, Biſhops, Abbots, Dukes, Princes,
+Earls, Lords and Barons in our ancienteſt Parliaments,
+but<note n="*" place="margin">See Mr. <hi>Sel<g ref="char:EOLhyphen"/>dens</hi> Titles of Honour, part 2. c. 5. <hi>Spel<g ref="char:EOLhyphen"/>manni</hi> Concil. Tom. 1. Truth triumphing o<g ref="char:EOLhyphen"/>ver falſhood, p 50, to 70. The grand In<g ref="char:EOLhyphen"/>queſt, p. 8, to 16.</note> no mention at all of any Knights of Shires, Citizens and
+Burgeſſes: Thirdly, all our Parliament Rolls contradict this
+fancy, that there can be no Act nor Ordinance of Parliament
+without the Lords conſent as well as the Commons; as is evi<g ref="char:EOLhyphen"/>dent
+by the penning of all our printed Acts, and by 6 <hi>Edw.</hi> 3.
+Rot. Parl. n. 5. 17 <hi>E.</hi> 3. n. 59, 60. 43 <hi>E.</hi> 3. n. 3, &amp; 10. 14 <hi>R.</hi> 2. n.
+14, 15. 13 <hi>H.</hi> 4. n. 25. with many more: yea, the Lords preſence
+in Parliament hath at all times be<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ſo <hi>abſolutely neceſſary and
+expedient; that our Parliaments from time to time have been adjourned
+from the day that they were firſt appointed to ſit, till ſome few days after;</hi>
+upon this very reaſon, <hi>That</hi> ALL THE LORDS (<hi>by reaſon of the foul
+weather, ſhortneſſe of ſummons, or ſome other occaſion) were not yet come
+up to the Parliament, OR SOME OF THE LORDS NOT
+COME; and the Declaration of the cauſes of calling the Parliament by
+the Lord Chancellour, or chief Justice, and all Parliamentary buſineſſe
+deferred till their comming, (as well as becauſe ſome of the Knights and
+Burgeſſes were not come, nor all the Writs for their elections returned:)
+upon which reaſon, and the abſence of ſome Lords, the firſt day of the Par<g ref="char:EOLhyphen"/>liaments
+ſitting, hath been oft adjourned,</hi> as the Parliament
+Rolls of 6 <hi>E.</hi> 3. nu. 1. 6 <hi>E.</hi> 3. Parl. 2. n. 5, 6, 8, 9. 13 <hi>E.</hi> 3. Parl. 2. n.
+4. 15 <hi>E.</hi> 3. n. 5. 17 <hi>E.</hi> 3. n. 2. 6. 18 <hi>E.</hi> 3. n. 1, 2, 5. 20 <hi>E.</hi> 3. n. 5. 21 <hi>E.</hi>
+3. n. 4. 22 <hi>E.</hi> 3. n. 1. 25 <hi>E.</hi> 3. n. 1. 29 <hi>E.</hi> 3. n. 4. 36 <hi>E.</hi> 3. n. 1. 37 <hi>E.</hi>
+3. n. 1. 42 <hi>E.</hi> 3. n. 1. 50 <hi>E.</hi> 3. n. 1. 51 <hi>E.</hi> 3. n. 3. 1 <hi>R.</hi> 2. n. 1, 2 <hi>R.</hi> 2. n.
+1. 3 <hi>R.</hi> 2. n. 1. 4 <hi>R.</hi> 2. n. 1. 5 <hi>R.</hi> 2. Parl. 1. n. 1. &amp; Parl. 2. n. 1. 6 <hi>R.</hi>
+               <pb n="22" facs="tcp:115569:13"/>
+2. Parl. 1. n. 1. &amp; Parl. 2. n. 1. abundantly<note n="*" place="margin">And 8 <hi>H.</hi> 4. n. 28, 30, 54. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>H.</hi> 4. n. 1. 1; <hi>H.</hi> 4. n. 1.</note> manifeſt, it being the
+cuſtome of all former Parliaments to Debate, Vote and deter<g ref="char:EOLhyphen"/>mine
+nothing but in <hi>F<g ref="char:V">Ʋ</g>LL PARLIAMENT,</hi> when all, or the
+moſt part of the Members of both Houſes were preſent, and
+not in a thin or empty Houſe, when above half or three parts
+were abſent: an innovation of dangerous conſequence, brought
+in of later times, and fit to be redreſſed, <hi>for which ſome Parlia<g ref="char:EOLhyphen"/>ments
+and Parliamentary proceedings have been</hi>
+               <note n="p" place="margin">See 31 <hi>F.</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. n. 16. 1 <hi>H</hi> 4. Rot. Parl. 22, 25, 66. 39 <hi>H.</hi> 6. c. 1. Statutes of <hi>Ireland, 10 H</hi> 7. c. 23. 21 <hi>R.</hi> 2. c. 12. 31 <hi>H</hi> 6 c. 1. 17 <hi>E.</hi> 4. c. 7.</note> 
+               <hi>repealed and judged
+voyd by Parliament;</hi> eſpecially when accompanied with any
+armed forces and violence, over-awing the Houſes or their
+Members: to prevent which in former ages, by the<note n="q" place="margin">
+                  <hi>Cook</hi> 4 Inſt. p. 14 &amp; 2 <hi>E.</hi> 3. c. 3.</note> 
+               <hi>an<g ref="char:EOLhyphen"/>cient
+law and custome of Parliament, a Proclamation uſually was and
+ought to be made at</hi> Weſtminſter <hi>in the beginning of every Parliament
+THAT NO MAN, <g ref="char:V">Ʋ</g>PON PAIN TO LOSE ALL THAT HE
+HAD, SHO<g ref="char:V">Ʋ</g>LD D<g ref="char:V">Ʋ</g>RING THE PARLIAMENT, in</hi> Lon<g ref="char:EOLhyphen"/>don
+<hi>or</hi> Weſtminſter, <hi>or the Suburbs, &amp;c. wear any privy coat of Plate,
+OR GOE ARMED, or uſe any Games, Playes, Justs, and other
+paſtimes, or ſhewing Shewes during the Parliament: The reaſon whereof
+was, That the high Court of Parliament ſhould not thereby be diſturbed,
+nor the Members thereof (which are TO ATTEND the arduous and
+urgent buſineſſe of the Church and Common-wealth) be thereby</hi> WITH<g ref="char:EOLhyphen"/>DRAWN
+OR FORCED AWAY: as is apparent by 5 <hi>E.</hi>
+3. nu. 5. 6 <hi>E.</hi> 3. nu. 2, 3. 6 <hi>E.</hi> 3. Parl. 2. n. 2. 6 <hi>E.</hi> 3. Parl. 4. n. 4, 5.
+13 <hi>E.</hi> 3. n. 1. 14 <hi>E.</hi> 3. n. 1. 14 <hi>E.</hi> 3. Parl. 21. n. 2. 15 <hi>E.</hi> 3. n. 2. 17 <hi>E.</hi>
+3. n. 3. 20 <hi>E.</hi> 3. n. 1. 24 <hi>E.</hi> 3. n. 1. 25 <hi>E.</hi> 3. n. 5, 8. &amp; Stat. 2. n. 4. A
+law and cuſtome now fit to be revived. Fourthly, the very
+Writs of Summons for the Lords, and of election of Knights,
+Citizens and Burgeſſes, refutes this groſſe miſtake, requiring
+them all <hi>to appear perſonally in Parliament, on ſuch a day, at ſuch a
+place, and there to treat of the great and urgent affairs of the Realm, not
+onely with the King himſelf, but</hi> cum Praelatis, MAGNATIBUS
+ET PROCERIBUS dicti Regni noſtri; <hi>with the Prelates, No<g ref="char:EOLhyphen"/>blemen
+and Lords of our ſaid Realm:</hi> And therefore to dream of
+holding a Parliament, or making Lawes without the Lords,
+is a ſign of an intoxicated brain. Fiftly, I find in 21 <hi>E.</hi> 3. nu.
+58. 21 <hi>E.</hi> 3. n. 60. 37 <hi>E.</hi> 3. n. 12, 34. 50 <hi>E.</hi> 3. n. 12, 13. and the
+yeer-book of 39 <hi>E.</hi> 3. 7. b. that <hi>the King and Lords in Parliament</hi>
+               <note n="*" place="margin">See the Free holders grand Inqueſt.</note> 
+               <hi>have made binding laws without the Commons, in ſome caſes, but not
+<pb n="23" facs="tcp:115569:13"/>
+the King and Commons without the Lords:</hi> And in the Parliament
+of 6 <hi>E.</hi> 3. Parl. 2. n. 7. <hi>the Commons had licenſe to depart the parlia<g ref="char:EOLhyphen"/>ment,
+but the Lords were commanded to attend the King the next morn<g ref="char:EOLhyphen"/>ing,
+to adviſe him:</hi> So that there is far more colour in point of
+Preſidents to prove, that the King and Lords may make Laws
+and grants of aydes, (as the Lords did by and for themſelves,
+3 <hi>E.</hi> 3. n. 4, 5. &amp; Parl. 2. 13 <hi>E.</hi> 3. n. 7.) without the Commons,
+then the King and Commons without the Lords.</p>
+            <p>
+               <hi>Sixtly, to this,</hi> that the Knights, Citizens and Burgeſſes in parlia<g ref="char:EOLhyphen"/>ment,
+have a greater voyce then the greateſt Earl in parliament, becauſe
+they repreſent the Countries, Cities and Burroughs from whence they
+come, and the Earl but himſelf.</p>
+            <p>I anſwer, firſt, that the reaſon holds not; for if this were true
+then every Knight, Citizen and Burgeſſe that ſerves for the
+greateſt Counties, Cities and Burroughs, ſhould have a great<g ref="char:EOLhyphen"/>er
+voyce and power in the Commons houſe, then thoſe that
+ſerve for leſſer, and the ſmalleſt, becauſe they repreſent,
+and aſſent, and vote for more Freeholders, Citizens and Bur<g ref="char:EOLhyphen"/>geſſers
+then they; and by the ſame reaſon, the leſſer and poor<g ref="char:EOLhyphen"/>er
+Peers ſhould have a leſſer voyce in the Peers houſe then the
+greateſt and richeſt; which we know is falſe and abſurd. Se<g ref="char:EOLhyphen"/>condly,
+many Peers are of greater worth, value, eſtate and
+intereſt in relation to the Kingdom, then many poor Bur<g ref="char:EOLhyphen"/>roughs;
+and therefore by this reaſon their voices ſhould be
+greater then both Burgeſſes ſerving for them. Thirdly, every
+Peer votes not onely for himſelf, but for all the Nobility and
+whole State and Kingdom whereof he is a member, as well
+and as much as any Commoner; and therefore his voyce is as
+great as theirs.</p>
+            <p>As to the Lords negative voice in Parliament, I anſwer,
+firſt, the King, common Laws and Statutes of <hi>England,</hi> have
+ever allowed and acknowledged it in all Ages: Secondly, to
+deny them this Priviledge, is to make the whole houſe of Peers
+meaner then the meaneſt Burgeſſe, who hath a negative voyce
+in all debates and votes that paſſe the Commons houſe; yea,
+to deny them to be freemen, and make them worſe then the
+Philiſtine Lords, who had a negative voyce, 1 <hi>Sam. 29. 2, to</hi> 12
+And to make them give their co<g ref="char:cmbAbbrStroke">̄</g>ſents to whatever the Co<g ref="char:cmbAbbrStroke">̄</g>mons
+<pb n="24" facs="tcp:115569:14"/>
+ſhall carry by their plurality of Votes (though it be but by
+one or two) is to ſet up Popiſh blind obedience, and implicit
+faith, yea, to deſtroy that liberty of conſcience and judgement
+which the Objectors, Levellers and Army do pretend they
+fight, and ſo earneſtly conteſt for. Thirdly, there are ſundry
+preſidents in our Parliament Rolls, of the Lords negative
+voyces in Parliaments; I ſhall inſtance onely in two or three,
+The firſt in print, in the Statute of <hi>Marlbridge, 20 H.</hi> 3. c. 3. <hi>The
+Biſhops and Clergie importuned the Lords, that they would conſent, that
+all ſuch as were born afore Matrimony ſhould be legitimate, as well as
+thoſe who were born within Matrimony, as to the ſucceſſion of Inheri<g ref="char:EOLhyphen"/>tance,
+for ſo much as the Church accepteth ſuch for legitimate. And</hi> ALL
+THE EARLS AND BARONS WITH ONE VOICE
+anſwered, NOLUMUS, <hi>&amp;c.</hi> WE WILL NOT CHANGE
+THE LAWS OF THE REALM <hi>which hither to have been uſed
+and approved.</hi> Here the Lords negative voyce hindered the alte<g ref="char:EOLhyphen"/>ration
+of the common Law, againſt the Biſhops and Clergies
+importunate Vote to change it. So in the Parliament of 28 <hi>E.</hi>
+3. nu. 25. the Commons deſired, <hi>that any man attainted upon a writ
+of Oyer and Terminer, might bring his Attaint hanging the ſuits againſt
+the other.</hi> To this the anſwer on the Roll is, THE LORDS
+WILL NOT ALTER THE ORDER OF THE LAW.
+The like negative anſwer you may read in 21 <hi>E.</hi> 3. n. 12, 29. 1 <hi>R.</hi>
+2. n. 34, 69, 111. 2 <hi>R.</hi> 2. n. 57, 58. Parl. 1. &amp; Parl. 2. n. 48. and ſun<g ref="char:EOLhyphen"/>dry
+other Rols. Therefore to inferre any thing from theſe
+erronious paſſages againſt the Lords Louſe, Votes, Judicature
+or negative voyce, is but the blind following of the blind, and
+contradict all Parliament Records, Hiſtory, Antiquity and
+Law it ſelf, and approve and eſtabliſh their authority, judica<g ref="char:EOLhyphen"/>ture
+and diſtinction from the Commoners.</p>
+            <p>Finally, it is evident by the Parliament Rols of 6 <hi>E.</hi> 3. Parl.
+2. n. 3. 13 <hi>E.</hi> 3. Par. 2. n. 7, 8. 15 <hi>E.</hi> 3. n. 6, 7, 9, 17, 18, 35, 37. 17 <hi>E.</hi>
+3. n. 9, 11, 12, 59. 18 <hi>E.</hi> 3. n. 10. 21 <hi>E.</hi> 3. n. 4, 5, 70. 22 <hi>E.</hi> 3. n. 3, 4,
+29. 22 <hi>E.</hi> 3. Parl. 2. n. 6, 7. 27 <hi>E.</hi> 3. n. 4. 29 <hi>E.</hi> 3. n. 10. 36 <hi>E.</hi> 3. n. 6,
+7. 40 <hi>E.</hi> 3. n. 8. 42 <hi>E.</hi> 3. n. 7. 47 <hi>E.</hi> 3. n. 5, 6, 12. 50 <hi>E.</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. n. 3, 8, 9, 10
+14. 51 <hi>E.</hi> 3. n. 18, 19. 1 <hi>R.</hi> 2. n. 12, 13. 2 <hi>R.</hi> 2. n. 10, 23, to 29. 2 <hi>R.</hi>
+2. Parl. 2. n. 6. 4 <hi>R.</hi> 2. n. 9, to 16. 5 <hi>R.</hi> 2. n. 13, to 31. 6 <hi>R.</hi> 2. n. 9,
+10, 1<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 6 <hi>R.</hi> 2. parl. 2. n. 14, 15. 6 <hi>R.</hi> 2. parl. 3. n. 8, 9. 7 <hi>R.</hi> 2. n. 11.
+<pb n="25" facs="tcp:115569:14"/>
+7 <hi>R.</hi> 2. Parl. 2. n. 10, 11. 13 <hi>R.</hi> 2. n. 6. 15 <hi>R.</hi> 2 n. 15. 16 <hi>R.</hi> 2. n. 6.
+17 <hi>R.</hi> 2. n. 6, 17, 18 20 <hi>R. 2. 8, 9, 10, 12, 13, 16, 17. 21 R.</hi> 2. n. 8, 9,
+16, to 21. That the Lords and Commons in the Parliaments
+of King <hi>Edward</hi> the third, and <hi>Richard</hi> the ſecond, were <hi>distinct
+both in their debates, con<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ultations, councels, p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>titions, votes, and pla<g ref="char:EOLhyphen"/>ces
+of ſitting too, 50 E.</hi> 3. n. 3, 8. Sir <hi>John Knevet</hi> Chancellour of
+<hi>England,</hi> having declared the cauſes of calling that Parliament
+before the King, Lords and Commons, willed them to goe
+together, THE LORDS BY THEMSELVES, AND THE
+COMMOS BY THEMSELVES, and ſpeedily to conſult
+and give anſwer. After which the Commons were willed to
+d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>part TO THEIR ACCUSTOMED PLACE, b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing the
+Chapter houſe of the Abbot of <hi>Weſtminſter,</hi> whither they went.
+In which place they likewiſe ſate, 2 <hi>R.</hi> 2. n. 10. &amp; 4 <hi>R.</hi> 2. n. 9.
+And in 15 <hi>E.</hi> 3. n. 17. 47 <hi>E.</hi> 3. n. 5, 6. 50 <hi>E.</hi> 3. n. 8. 9. 51 <hi>E.</hi> 3. n. 18,
+19. 1 <hi>R.</hi> 2. n. 12, 13, 14. 5 <hi>R.</hi> 2. n. 14. 6 <hi>R.</hi> 2. Parl. 2. n. 15. 7 <hi>R.</hi> 2.
+Parl. 2. n. 10, 11. <hi>The Commons came to</hi> THE LORDS HOUSE,
+<hi>and required that certain of the Lords, there named,</hi> WOULD
+VOUCHSAFE TO CONFER WITH THE COM<g ref="char:EOLhyphen"/>MONS;
+<hi>whereupon they went to the Chamberlains chamber to confer
+with the Commons: And at other times they were appointed to goe and
+conſult with the Commons at ſome other place by the Lords order. In</hi>
+2 <hi>R.</hi> 2. Parl. 1. n. 23. <hi>the Commons required, that ſome five or ſix of
+the Lords might be appointed to come and diſcourſe with them;</hi> THE
+LORDS DENIED THAT, ſaying, <hi>The ſame was the guiſe of
+two or three Parliaments before.</hi> But the uſe was, <hi>That the Lords
+ſhould among themſelves chooſe a certain number, and the Commons the
+like, and that they ſhould confer together, which they would do: for if the
+Commons would not diſſever themſelves, neither would they the Lords:
+To the which order the Commons agreed.</hi> And 4 <hi>H.</hi> 4. n. 10. <hi>The Com<g ref="char:EOLhyphen"/>mons
+deſiring the King that certain ſpeciall Lords might be aſſigned to
+treat with them about affairs for the common benefit of the Realm: It
+was condeſcended unto, with this protestation ſpecially entred by the Kings
+command, that it ought not to be done of right</hi> OR CUSTOME,
+BUT ONELY OUT OF THE KINGS SPECIALL
+GRACE; which the Commons then acknowledged.</p>
+            <p>A pregnant evidence both of their diſtinct Houſes and con<g ref="char:EOLhyphen"/>ſultations,
+except onely at private Committees and Confe<g ref="char:EOLhyphen"/>rences;
+<pb n="26" facs="tcp:115569:15"/>
+Yea, the Commons had anciently ſuch an high eſteem
+of the Lords fidelity, wiſdom, abilities, councel and experi<g ref="char:EOLhyphen"/>ence,
+that in 15 <hi>E.</hi> 3. n. 17. <hi>The Commons pray that unto the Wed<g ref="char:EOLhyphen"/>neſday
+then next enſuing, the Articles they then preſented to the King,
+might be committed to certain Earls, Barons, Biſhops and other</hi> WISE
+MEN <hi>there named by them,</hi> TO BE AMENDED: <hi>which t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e
+King granted.</hi> And in 13 <hi>E.</hi> 3. Parl. 1. n. 11. 21 <hi>E.</hi> 3. n. 5. 7 <hi>R.</hi> 2.
+Parl. 2. n. 19, 20. 17 <hi>R.</hi> 2. n. 17. and ſundry other Rolls, The
+Commons profeſſe THEIR INABILITY AND INSUFFI<g ref="char:EOLhyphen"/>CIENCY
+TO ADVISE THE KING in ſome MATTERS
+OF PEACE, WARRE, and ſafeguard of the Seas, for that
+THEY PASSED THEIR CAPACITY, AND UNDER<g ref="char:EOLhyphen"/>STOOD
+NOT THE TERMS OF THE CIVILL LAW,
+and ſome words in Truces: and therefore WHOLLY RE<g ref="char:EOLhyphen"/>FERRED
+THEMSELVES in theſe things to THE KING
+AND THE LORDS, AND THE KINGS COUNSELL,
+to do therein as they ſhould ſeem meet, being men of greater
+wiſdom and experience in State-affairs of this nature, then
+themſelves, in which they had little or no inſight. And in
+2 <hi>H.</hi> 4. n. 11. <hi>The whole houſe of Commons claim, and the King grants
+and confirms;</hi> and in 9 <hi>H.</hi> 4. n. 21. (entituled, <hi>The indempnity of
+the Lords and Commons) The Lords and Commons ſeriouſly claim this
+as a ſpeciall ancient priviledge belonging to both the Houſes, to ſit and
+debate upon things in Parliament ſeverally by themſelves in their diſtinct
+Houſes, in the Kings abſence</hi> (whoſe preſence might over-awe
+them, and hinder their free debates;) <hi>which they both claimed, and
+the king confirmed to them</hi> IN ALL TIMES TO COME, <hi>and
+that no report ſhould be made to the King of any debate, vote or ayde
+granted, till the Lords and Commons be all agreed, and that by</hi> THE
+SPEAKERS MOUTHES. Which ancient priviledge ſo long
+ſince claimed, granted, confirmed and enjoyed ever ſince, not
+onely proves the ancient diſtinction of both houſes, but utter<g ref="char:EOLhyphen"/>ly
+ſubverts the Levellers project, who would ſtrip both Houſes
+at once of this great priviledge, which the Commons deemed
+their greateſt immunity (ſeeing they durſt ſpeak their mindes,
+and vote more freely among themſelves, then in the preſence
+of the King and Lords, for fear of incurring their diſpleaſures)
+by reducing both houſes into one. The ſerious conſideration
+<pb n="27" facs="tcp:115569:15"/>
+whereof, and of the premiſes, will I truſt for ever take them
+off from their dangerous abſurd deſigne of Levelling and re<g ref="char:EOLhyphen"/>ducing
+the Lords Houſe to the Commons, and lay the igno<g ref="char:EOLhyphen"/>rant,
+illiterate proſecutors of it, levell with the duſt: the ra<g ref="char:EOLhyphen"/>ther,
+becauſe the King and Lords in Parliament, have not one<g ref="char:EOLhyphen"/>ly
+joyntly and ſeverally judged Commoners themſelves in Par<g ref="char:EOLhyphen"/>liament
+for ſuch Treaſons, &amp; other miſdemeanours as are pro<g ref="char:EOLhyphen"/>perly
+triable in Parliament, not at the common Law, as is evi<g ref="char:EOLhyphen"/>dent
+by<note n="r" place="margin">4 <hi>E.</hi> 3. n. 3, to 8. 21 <hi>E.</hi> 3. n. 65 50 <hi>E.</hi> 3. n. 15, to 38. 1 <hi>R<g ref="char:punc">▪</g>
+                  </hi> 2. n 35, to 44 4 <hi>R<g ref="char:punc">▪</g>
+                  </hi> 2. n. 17, to 25 7 <hi>R.</hi> 2. n. 15, to 26. &amp;c.</note> infinite Preſidents; but even Knights of the Shire,
+and other Members of the Commons Houſe it ſelf, in point
+of miſdemeanours, undue Elections, and priviledges of Parlia<g ref="char:EOLhyphen"/>ment;
+as is appare<g ref="char:cmbAbbrStroke">̄</g>t by 16 <hi>R.</hi> 2. n. 6, 13, 14. S<hi rend="sup">r</hi> 
+               <hi>Phillip Courtney's</hi> caſe,
+returned one of the Knights for the County of <hi>Devon, 17 R.</hi> 2.
+n. 23. <hi>Roger de Swinerton's</hi> caſe, 5 <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> 4. n. 38. <hi>Thomas Thorp.</hi> his caſe,
+elected knight for the County of <hi>Rotland,</hi> whoſe election was
+heard, examined and adjudged by the Lords in Parliament to
+be good, at the Commons requeſt; and 31 <hi>H.</hi> 6. n. 25, to 30.
+Baron <hi>Thorp's</hi> caſe, Speaker of the Commons houſe, whoſe pri<g ref="char:EOLhyphen"/>viledge
+was ſolemnly debated before, and adjudged againſt
+him by the Lords in Parliament; who therupon by the King's
+direction, commanded the Commons to chooſe and preſent a
+new Speaker; which they accordingly did the next day. Yea,
+the whole Houſe of Commons in the Parliament of 1 <hi>H.</hi> 4. n.
+79. Remonſtrated to the King, and voluntarily confeſſed. That
+THE JUDGMENTS IN PARLIAMENT APPERTAIN
+ONELY TO THE KING AND TO THE LORDS, and
+NOT UNTO THE COMMONS; and that THE KING
+AND LORDS EVER HAD IN ALL TIMES, AND
+SHALL HAVE OF RIGHT THE JUDGEMENTS IN
+PARLIAMENT: And the King then declared to the Com<g ref="char:EOLhyphen"/>mons,
+that this Order ſhall be obſerved and kept IN ALL
+TIMES TO COME, and that in caſes of Commoners and
+Members of the Commons houſe it ſelf, as well as of Peers; as
+is cleer by <hi>Thorp's</hi> caſe forecited, and by 5 <hi>H.</hi> 4. n. 71, 78. the
+printed Statute of 5 <hi>H.</hi> 4. c. 6. <hi>Richard Chedders</hi> caſe, and 4 <hi>H.</hi> 8.
+c. 8. <hi>Richard Strode</hi> his caſe, Burgeſſe for <hi>Plimton</hi> in the County
+of <hi>Devon;</hi> where the <hi>King and Lords at the Prayer and Petition of the
+Commons, provide remedies againſt the breaches of the priviledges of the
+<pb n="28" facs="tcp:115569:16"/>
+Commons themſelves and their ſervants, which themſelves alone had no
+ſufficient power r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> right and determine; the power of judicature being
+not in them, but in the King, Lords and houſes of Peers alone;</hi> who
+long before the Conqueſt had the power of Judicature, as is
+evident by <hi>Brampton,</hi> and Maſter<note n="*" place="margin">Titles of Ho<g ref="char:EOLunhyphen"/>nour, part 2. c. 5. ſect. 6.</note> 
+               <hi>Selden,</hi> in the caſe of Earl
+<hi>Goodwin,</hi> in a Parliament held in the yeer 1052. wherein <hi>Ed<g ref="char:EOLhyphen"/>ward</hi>
+the Confeſſor appealed to THE EARLS AND BA<g ref="char:EOLhyphen"/>RONS
+againſt this Earl, for the murther of his Brother <hi>Alfred</hi>
+in theſe words, <hi>Domini</hi> COMITES <hi>&amp;</hi> BARONES <hi>terrae, &amp;c.
+Volo quod inter Nos in iſta appellatione</hi> RECTUM JUDICIUM
+DECERNETIS <hi>&amp;</hi> DEBITAM JUSTITIAM FACIATIS.
+And therfore it is the very extremity of injuſtice to deny them
+this their ancient Heredetary right, and priviledge now, and
+transfer it to the Commons houſe, who never enjoyed it in
+any former Age, and can make no right, nor lawfull claim
+unto it at this preſent.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>Page 3. line 1. <hi>H.</hi> 7. read <hi>H.</hi> 4.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
